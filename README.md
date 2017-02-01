@@ -11,3 +11,4 @@ JavaScript
 React
 -----
 * [JSX In Depth](https://github.com/jsonko/dailyJavaScript/blob/master/React_JSX_In_Depth.md)
+* [Typechecking with PropTypes](https://github.com/jsonko/dailyJavaScript/blob/master/Typechecking_With_PropTypes.md)
